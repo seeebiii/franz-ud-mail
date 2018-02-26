@@ -1,0 +1,13 @@
+{
+  "id": "ud-mail",
+  "name": "United Domains Mail",
+  "version": "1.0.0",
+  "description": "United Domains Mail",
+  "main": "index.js",
+  "author": "Sebastian Hesse <info@sebastianhesse.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.ud-mail.de",
+    "hasNotificationSound": true
+  }
+}
